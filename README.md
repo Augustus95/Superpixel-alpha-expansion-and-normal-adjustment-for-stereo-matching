@@ -2,4 +2,5 @@
 an implement of stereo matching（local、global and gpu）
 ## environment
 win10、vs2015、mfc、opencv
-## snapshot
+## result
+http://vision.middlebury.edu/stereo/eval3/  (NOSS - -)
