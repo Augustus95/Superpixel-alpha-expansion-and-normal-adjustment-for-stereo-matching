@@ -3,5 +3,5 @@ an implement of stereo matching
 ## environment
 Win10、VS2015、MFC、OpenCV
 ## Results
-http://vision.middlebury.edu/stereo/eval3/  (NOSS_ROB)  
-https://www.eth3d.net/low_res_two_view/  (NOSS_ROB)
+http://vision.middlebury.edu/stereo/eval3  (NOSS_ROB)  
+https://www.eth3d.net/low_res_two_view  (NOSS_ROB)
