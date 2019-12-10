@@ -1,6 +1,7 @@
-# stereo_matching_local_global_gpu
-an implement of stereo matching（local、global and gpu）
+# Superpixel alpha-expansion and normal adjustment for stereo matching
+an implement of stereo matching
 ## environment
-win10、vs2015、mfc、opencv
-## result
-http://vision.middlebury.edu/stereo/eval3/  (NOSS)
+Win10、vs2015、MFC、openCv
+## Results
+http://vision.middlebury.edu/stereo/eval3/  (NOSS_ROB)
+https://www.eth3d.net/low_res_two_view/  (NOSS_ROB)
