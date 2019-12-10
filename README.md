@@ -5,6 +5,9 @@ an implement of stereo matching
 ### Environment
 Win10、VS2015、MFC、OpenCV  
 
+### Usage
+1. Dowload dataset and use parameter (preprocessing) to pre-process image.  
+2. Run with parameter (evaluation) to get the results as the paper.
 
 ### Results
 1. http://vision.middlebury.edu/stereo/eval3  (NOSS_ROB)  
